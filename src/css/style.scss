@@ -1,9 +1,11 @@
-@use "fonts";
-@use "reset";
-@use "layout";
-@use "sitenav";
-@use "typography";
-@use "buttons";
-@use "card";
-@use "prism";
-@use "utilities";
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";
+
+@import "fonts";
+@import "reset";
+@import "layout";
+@import "sitenav";
+@import "typography";
+@import "buttons";
+@import "card";
+@import "prism";
+@import "utilities";
